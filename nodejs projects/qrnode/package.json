@@ -1,0 +1,16 @@
+{
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "i am learning about npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gyandeep",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.7",
+    "npm": "^10.8.2",
+    "silly-names-hun": "^1.1.3"
+  }
+}
